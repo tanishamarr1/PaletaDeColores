@@ -1,0 +1,17 @@
+C:\Users\Tanisha(Mi bebe)\OneDrive\Desktop\repos\PaletaDeColores\PaletaDeColores\bin\Debug\net8.0-windows\PaletaDeColores.exe
+C:\Users\Tanisha(Mi bebe)\OneDrive\Desktop\repos\PaletaDeColores\PaletaDeColores\bin\Debug\net8.0-windows\PaletaDeColores.deps.json
+C:\Users\Tanisha(Mi bebe)\OneDrive\Desktop\repos\PaletaDeColores\PaletaDeColores\bin\Debug\net8.0-windows\PaletaDeColores.runtimeconfig.json
+C:\Users\Tanisha(Mi bebe)\OneDrive\Desktop\repos\PaletaDeColores\PaletaDeColores\bin\Debug\net8.0-windows\PaletaDeColores.dll
+C:\Users\Tanisha(Mi bebe)\OneDrive\Desktop\repos\PaletaDeColores\PaletaDeColores\bin\Debug\net8.0-windows\PaletaDeColores.pdb
+C:\Users\Tanisha(Mi bebe)\OneDrive\Desktop\repos\PaletaDeColores\PaletaDeColores\obj\Debug\net8.0-windows\PaletaDeColores.Form1.resources
+C:\Users\Tanisha(Mi bebe)\OneDrive\Desktop\repos\PaletaDeColores\PaletaDeColores\obj\Debug\net8.0-windows\PaletaDeColores.Properties.Resources.resources
+C:\Users\Tanisha(Mi bebe)\OneDrive\Desktop\repos\PaletaDeColores\PaletaDeColores\obj\Debug\net8.0-windows\PaletaDeColores.csproj.GenerateResource.cache
+C:\Users\Tanisha(Mi bebe)\OneDrive\Desktop\repos\PaletaDeColores\PaletaDeColores\obj\Debug\net8.0-windows\PaletaDeColores.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tanisha(Mi bebe)\OneDrive\Desktop\repos\PaletaDeColores\PaletaDeColores\obj\Debug\net8.0-windows\PaletaDeColores.AssemblyInfoInputs.cache
+C:\Users\Tanisha(Mi bebe)\OneDrive\Desktop\repos\PaletaDeColores\PaletaDeColores\obj\Debug\net8.0-windows\PaletaDeColores.AssemblyInfo.cs
+C:\Users\Tanisha(Mi bebe)\OneDrive\Desktop\repos\PaletaDeColores\PaletaDeColores\obj\Debug\net8.0-windows\PaletaDeColores.csproj.CoreCompileInputs.cache
+C:\Users\Tanisha(Mi bebe)\OneDrive\Desktop\repos\PaletaDeColores\PaletaDeColores\obj\Debug\net8.0-windows\PaletaDeColores.dll
+C:\Users\Tanisha(Mi bebe)\OneDrive\Desktop\repos\PaletaDeColores\PaletaDeColores\obj\Debug\net8.0-windows\refint\PaletaDeColores.dll
+C:\Users\Tanisha(Mi bebe)\OneDrive\Desktop\repos\PaletaDeColores\PaletaDeColores\obj\Debug\net8.0-windows\PaletaDeColores.pdb
+C:\Users\Tanisha(Mi bebe)\OneDrive\Desktop\repos\PaletaDeColores\PaletaDeColores\obj\Debug\net8.0-windows\PaletaDeColores.genruntimeconfig.cache
+C:\Users\Tanisha(Mi bebe)\OneDrive\Desktop\repos\PaletaDeColores\PaletaDeColores\obj\Debug\net8.0-windows\ref\PaletaDeColores.dll
